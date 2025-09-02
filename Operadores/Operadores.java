@@ -6,7 +6,7 @@ public class Operadores {
         double resultado = numero1 / numero2;
         System.out.println(resultado);
 
-        // % Relacionaios
+        // % Relacionais
         int resto = 20 % 2;
         System.out.println(resto);
 
