@@ -8,7 +8,7 @@ public class ElseIf {
         int idade = 17;
         String categoria;
 
-        if(idade< 15){
+        if(idade < 15){
             categoria = "Categoria Infatil";
         } else if(idade >= 15 && idade < 18){
             categoria = "Categoria Juvenil";
