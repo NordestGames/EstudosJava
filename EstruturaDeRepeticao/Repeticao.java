@@ -11,11 +11,11 @@ public class Repeticao {
 
         // do while executa pelo menos uma vez mesmo a condição seja falsa ou verdadeiro
         do {
-            System.err.println("Dentro do do-while");
+            System.out.println("Dentro do do-while");
         } while(count < 10);
 
         for(int i = 0; i < 10; i++){
-            System.err.println("For " + i);
+            System.out.println("For " + i);
         }
     }
 }
