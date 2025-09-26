@@ -29,7 +29,7 @@ public class EstruturaSwitch {
                 System.out.println("Sábado");
                 break;
             default:
-                System.err.println("Opção inválida");
+                System.out.println("Opção inválida");
                 break;
         }
 
@@ -37,9 +37,9 @@ public class EstruturaSwitch {
         char sexo = 'M';
         switch(sexo){
             case 'M':
-                System.err.println("Masculino");
+                System.out.println("Masculino");
             case 'F':
-                System.err.println("Feminino");
+                System.out.println("Feminino");
             default:
                 System.out.println("Inválido");
         }
