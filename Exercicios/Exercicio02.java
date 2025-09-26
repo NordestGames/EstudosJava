@@ -20,7 +20,7 @@ public class Exercicio02 {
                 System.out.println("Dia útil");
                 break;
             default:
-                System.err.println("Opção inválido");
+                System.out.println("Opção inválido");
                 break;
             }
 
